@@ -67,6 +67,8 @@ yarn  dev
 
 [Vite](https://vitejs.dev/) - For faster development and builds, benefiting from features like native ES modules, efficient hot module replacement, and optimized production builds.
 
+[React router dom](https://reactrouter.com/en/main) - To manage the routing for this project, aiming to mimic a production-ready environment where multiple pages may be required.
+
 ## Important Notes
 
 - **Page Routing**: I have set up react-router-dom to manage the routing for this project, aiming to mimic a production-ready environment where multiple pages may be required.
