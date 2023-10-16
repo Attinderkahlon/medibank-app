@@ -71,6 +71,8 @@ yarn  dev
 
 ## Important Notes
 
+- **Conventional Commits**: I've used conventional commits over traditional commits to make it easier to understand the purpose of each commit. This is especially useful when working in a team environment.
+
 - **Page Routing**: I have set up react-router-dom to manage the routing for this project, aiming to mimic a production-ready environment where multiple pages may be required.
 
 - **Redux Store**: Even though it wasn't strictly necessary for this simple app, I've used a Redux store to manage the "cats" data. This serves to demonstrate how to manage large state data in a more complex, real-world application.
